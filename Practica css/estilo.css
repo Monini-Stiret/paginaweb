@@ -1,0 +1,134 @@
+@font-face {
+    font-family: "lobster";
+    src: url('../Fuentes/Lobster/Lobster-Regular.ttf');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "press start 2p";
+    src: url('../Fuentes/Press_Start_2P/PressStart2P-Regular.ttf');
+    font-display: block;
+}
+
+
+
+
+
+
+.titulo {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+    font-weight: lighter;
+    font-style: italic;
+    font-family: 'Lobster', cursive;
+    text-align: left;
+
+
+
+}
+
+.fondo {
+
+    background-image: url(/imagenes/fondo2.jpg);
+    background-size: cover;
+    background-size: 100% 200%;
+    background-repeat: no-repeat;
+
+
+
+}
+
+.fuente1 {
+
+    font-family: 'lobster', cursive;
+    text-align: right;
+    position: relative;
+    bottom: 90px;
+    left: 150px;
+    width: 120px;
+    height: 70px;
+
+
+}
+
+.parrafo1 {
+    color: brown;
+    background-color: rgb(8, 201, 226);
+    font-size: 12px;
+    font-family: 'press start 2p';
+    padding-left: 10px;
+    padding-right: 100px;
+    padding-bottom: 45px;
+    padding-top: 1;
+    width: 30px;
+    height: 30px;
+    text-align: left;
+    text-decoration: dashed;
+
+}
+.parrafo2{
+    background-color: aliceblue;
+    font-family: 'fredericka the great', cursive;
+    position: relative;
+    bottom: 60px;
+    
+}
+
+.texto {
+    color:red;
+    position: relative;
+    bottom: 10px;
+    text-align: left;
+    font-family: 'Rubik Vinyl', cursive;
+    font-size: 20px;
+    font-weight: 900;
+    font-style: italic;
+
+}
+
+
+
+legend {
+    font-family: 'Rubik Gemstones', cursive;
+}
+
+.lista {
+    width: 100px;
+    height: 100px;
+    ;
+    position: relative;
+    left: 240px;
+    top: 170px;
+
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 100px;
+
+
+}
+
+.imagenes {
+    width: 10px;
+    height: 10px;
+
+}
+
+
+
+
+.imagen1 {
+    position: relative;
+    bottom: 100px;
+}
+
+.bloque1 {
+    background-color: darkred;
+    width: 400px;
+    height: 100px;
+
+
+}
